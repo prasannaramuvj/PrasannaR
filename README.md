@@ -40,7 +40,7 @@ to improve usability
 • Integrated a pie chart visualization to display job application status distribution, helping users gain quick insights
 into their application progress
 • Utilized React Hooks (useState, useEffect) and browser localStorage for state management and data persistence
-• Tools Used-VS Code, Chrome DevTools, Bootstrap, Recharts
+• Tools Used : VS Code, Chrome DevTools, Bootstrap, Recharts
 
 ### [Personal Portfolio Website (Landing Page)]
 HTML, CSS, Bootstrap, React JS
@@ -51,7 +51,7 @@ projects
 experience
 • Integrated resume download and external links (GitHub, LinkedIn) for easy recruiter access
 • Tools Used
-- VS Code, Chrome DevTools, Bootstrap, React
+- Tools Used : VS Code, Chrome DevTools, Bootstrap, React
 
 ---
 
