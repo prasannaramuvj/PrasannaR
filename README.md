@@ -55,5 +55,6 @@ experience
 ---
 
 ## 📫 Contact
-- GitHub: (https://github.com/prasannaramuvj)
-- LinkedIn: (https://www.linkedin.com/in/prasanna-r-977b49251/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/prasanna-r-977b49251/])
+- 🧑‍💻 [GitHub]([https://www.linkedin.com/in/prasanna-r-977b49251/])
+- 📧 Email: prasanna@email.com
