@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Prasanna N
+# 👋 Hello, I'm Prasanna R
 
 🎯 Frontend Developer | React Enthusiast | Passionate Coder
 
