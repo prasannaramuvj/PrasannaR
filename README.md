@@ -45,5 +45,5 @@ A logistics management solution that:
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: (https://github.com/prasannaramuvj)
+- LinkedIn: linkedin.com/in/prasanna-r-977b49251
