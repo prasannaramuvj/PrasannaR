@@ -30,17 +30,28 @@ I am a motivated Frontend Developer with hands-on experience in HTML, CSS, Boots
 
 ## 🧩 Projects
 
-### 🩺 My Local Doctor
-A healthcare web platform with:
-- ✅ Appointment booking system
-- 🔐 Secure login for patients and doctors
-- 💊 Prescription creation and management
+### Job Application Tracker
+HTML, CSS, Bootstrap, React JS
 
-### 📦 Logistics Portal
-A logistics management solution that:
-- 📦 Allows customers to place and track orders
-- 🔄 Manages shipment returns
-- 📄 Automates billing for faster and error-free invoicing
+• Designed and developed a responsive job application tracking interface using React.js, enabling users to add,
+update, and manage job applications efficiently
+• Implemented job status management (Applied, Interview, Offer, Rejected) with filtering and search functionality
+to improve usability
+• Integrated a pie chart visualization to display job application status distribution, helping users gain quick insights
+into their application progress
+• Utilized React Hooks (useState, useEffect) and browser localStorage for state management and data persistence
+• Tools Used-VS Code, Chrome DevTools, Bootstrap, Recharts
+
+### [Personal Portfolio Website (Landing Page)]
+HTML, CSS, Bootstrap, React JS
+
+• Designed and developed a responsive single-page portfolio website using React.js to showcase frontend skills and
+projects
+• Created structured sections including hero, about, skills, projects, and contact to improve readability and user
+experience
+• Integrated resume download and external links (GitHub, LinkedIn) for easy recruiter access
+• Tools Used
+- VS Code, Chrome DevTools, Bootstrap, React
 
 ---
 
