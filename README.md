@@ -31,14 +31,15 @@ I enjoy building responsive and user-friendly web applications and continuously 
 
 ## 🧩 Projects
 
-### 📊 Job Application Tracker
+💳 Billing Management System (Frontend SPA)
 **HTML, CSS, Bootstrap, React JS**
 
-- Designed and developed a responsive job application tracking interface using React.js, enabling users to add, update, and manage job applications efficiently  
-- Implemented job status management (Applied, Interview, Offer, Rejected) with filtering and search functionality to improve usability  
-- Integrated a pie chart visualization to display job application status distribution, helping users gain quick insights into application progress  
-- Utilized React Hooks (`useState`, `useEffect`) and browser localStorage for state management and data persistence  
-- **Tools Used:** VS Code, Chrome DevTools, Bootstrap, Recharts  
+- Built a React-based Single Page Application (SPA) for managing billing operations
+- Implemented a mock API layer to simulate backend functionality and store data using browser localStorage
+-  Developed key features such as product management, customer management, invoice creation, and billing dashboard
+- Added basic mock authentication and analytics to track billing data
+- Used React Hooks (useState, useEffect) for state handling and smooth UI updates
+- **Tools Used:** VS Code, Chrome DevTools, Bootstrap, React  
 
 ---
 
